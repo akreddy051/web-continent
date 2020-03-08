@@ -1,0 +1,18 @@
+body{
+  background-color: #30a8f8;
+  color: #black;
+
+  font-family: Verdana, Geneva, Arial, sans-serif;
+}
+h1{
+  background-color: ;
+  color: black;  font-size: 300%;
+  border: 2px dotted black;
+  text-align:center;
+}
+h2{
+  font-size: 400%;
+  background-color:#3877b2;
+  color: #13da10;
+  border: 2px solid black;
+}
